@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "523802718247",
+    "firebase_url": "https://fir-storage-2c171.firebaseio.com",
+    "project_id": "fir-storage-2c171",
+    "storage_bucket": "fir-storage-2c171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523802718247:android:be01d83c561563a016de02",
+        "android_client_info": {
+          "package_name": "com.thinktorq.books_managementdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523802718247-7kt0i6u7nemlde0g3ucjm7i3llgrp74p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thinktorq.books_managementdemo",
+            "certificate_hash": "67129f1482ed03784a05223f4b7dc6e71d65afe8"
+          }
+        },
+        {
+          "client_id": "523802718247-adern9ro3kvgvtoirg7gjkl8qoe8ebbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8XI2mNZmB77wYhiOkvLhDTMLy3c6wwQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523802718247-adern9ro3kvgvtoirg7gjkl8qoe8ebbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
